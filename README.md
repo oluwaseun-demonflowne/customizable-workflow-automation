@@ -1,0 +1,1 @@
+ A backend service that allows users to create and manage automated workflows for repetitive tasks. Think of it as a lightweight, developer-friendly version of Zapier but tailored for specific use cases.
